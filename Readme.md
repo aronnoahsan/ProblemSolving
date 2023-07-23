@@ -9,6 +9,5 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 
 | Problem Link | Solution Link |
 | ------------ | ------------- |
-
 | [2769. Find the Maximum Achievable Number
 ](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2769/2769.js) |
