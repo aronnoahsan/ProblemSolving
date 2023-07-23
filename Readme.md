@@ -11,3 +11,8 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | ------------ | ------------- |
 | [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-numberdescription/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2769/2769.js) |
 | [2629. Function Composition](https://leetcode.com/problems/function-composition/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2629/2629.js) |
+| [2635. Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2635/2635.js) |
+
+
+##  License
+MIT License
