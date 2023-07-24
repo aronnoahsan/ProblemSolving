@@ -22,6 +22,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1672/1672.js) |
 | [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2413/2413.js) |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1480/1480.js) |
+| [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2574/2574.js) |
 
 ## License
 
