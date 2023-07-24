@@ -21,6 +21,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2235/2235.js) |
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1672/1672.js) |
 | [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2413/2413.js) |
+| [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1480/1480.js) |
 
 ## License
 
