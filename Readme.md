@@ -5,6 +5,10 @@ Starting with the easy ones, then gradually approach hard ones.
 
 I'll try to avoid library functions. Which may cause some performence bottlenecks. But hey, all i'm doing here is for practiece, there might be better soulution & I'll always appreciate that.
 
+## My Leetcode Profile
+
+[Aronno Ahsan - @AronnoAhsan](https://leetcode.com/aronnoahsan/)
+
 ## Problems & Solutions
 
 | Problem Link                                                                                                                  | Solution Link                                                                    |
@@ -15,6 +19,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1431/1431.js) |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                                                            | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/50/50.js)     |
 | [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2235/2235.js) |
+| [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1672/1672.js) |
 
 ## License
 
