@@ -14,6 +14,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2635. Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2635/2635.js) |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1431/1431.js) |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                                                            | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/50/50.js)     |
+| [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2235/2235.js) |
 
 ## License
 
