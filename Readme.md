@@ -25,6 +25,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)                                             | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2574/2574.js) |
 | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2114/2114.js) |
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1365/1365.js) |
+| [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1281/1281.js) |
 
 ## License
 
