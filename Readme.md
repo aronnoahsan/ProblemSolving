@@ -23,6 +23,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2413/2413.js) |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1480/1480.js) |
 | [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2574/2574.js) |
+| [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2114/2114.js) |
 
 ## License
 
