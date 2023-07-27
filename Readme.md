@@ -28,6 +28,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1281/1281.js) |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                        | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/189/189.js)   |
 | [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2160/2160.js) |
+| [2648. Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/)                                                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2648/2648.js) |
 
 ## License
 
