@@ -31,6 +31,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2648. Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/)                                                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2648/2648.js) |
 | [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)                                                                           | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1720/1720.js) |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1689/1689.js) |
+| [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/)                                             | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2396/2396.js) |
 
 ## License
 
