@@ -34,6 +34,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/)                                             | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2396/2396.js) |
 | [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2433/2433.js) |
 | [2621. Sleep](https://leetcode.com/problems/sleep/description/)                                                                                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2621/2621.js) |
+| [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                              | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/412/412.js)   |
 
 ## License
 
