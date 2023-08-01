@@ -33,6 +33,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1689/1689.js) |
 | [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/)                                             | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2396/2396.js) |
 | [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2433/2433.js) |
+| [2621. Sleep](https://leetcode.com/problems/sleep/description/)                                                                                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2621/2621.js) |
 
 ## License
 
