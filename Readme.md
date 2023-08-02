@@ -35,6 +35,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2433/2433.js) |
 | [2621. Sleep](https://leetcode.com/problems/sleep/description/)                                                                                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2621/2621.js) |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                              | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/412/412.js)   |
+| [2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/)                                             | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2626/2626.js) |
 
 ## License
 
