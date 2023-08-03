@@ -40,6 +40,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)                                                             | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1486/1486.js) |
 | [2652. Sum Multiples](https://leetcode.com/problems/sum-multiples/)                                                                                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2652/2652.js) |
 | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/)               | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1342/1342.js) |
+| [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)                                                                                   | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1528/1528.js) |
 
 ## License
 
