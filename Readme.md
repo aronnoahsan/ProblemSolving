@@ -38,6 +38,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/)                                             | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2626/2626.js) |
 | [2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)                                                           | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2634/2634.js) |
 | [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)                                                             | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1486/1486.js) |
+| [2652. Sum Multiples](https://leetcode.com/problems/sum-multiples/)                                                                                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2652/2652.js) |
 
 ## License
 
