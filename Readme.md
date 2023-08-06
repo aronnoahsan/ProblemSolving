@@ -42,6 +42,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/)               | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1342/1342.js) |
 | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)                                                                                   | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1528/1528.js) |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                        | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1/1.js)       |
+| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                    | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/9/9.js)       |
 
 ## License
 
