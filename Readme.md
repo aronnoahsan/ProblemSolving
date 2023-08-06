@@ -43,6 +43,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)                                                                                   | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1528/1528.js) |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                        | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1/1.js)       |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                    | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/9/9.js)       |
+| [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)                                                | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/345/345.js)   |
 
 ## License
 
