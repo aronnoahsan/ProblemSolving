@@ -50,6 +50,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2442. Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2442/2442.js) |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                                                                                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/20/20.js)     |
 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/)                                                                                   | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1323/1323.js) |
+| [2810. Faulty Keyboard](https://leetcode.com/problems/maximum-69-number/description/)                                                                                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2810/2810.js) |
 
 ## License
 
