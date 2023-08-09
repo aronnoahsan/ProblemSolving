@@ -48,6 +48,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)                                                                                          | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/7/7.js)       |
 | [2443. Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/description/)                                                           | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2443/2443.js) |
 | [2442. Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/) | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2442/2442.js) |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                                                                                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/20/20.js)     |
 
 ## License
 
