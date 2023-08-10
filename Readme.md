@@ -52,6 +52,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/)                                                                                   | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1323/1323.js) |
 | [2810. Faulty Keyboard](https://leetcode.com/problems/maximum-69-number/description/)                                                                                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2810/2810.js) |
 | [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/)                                                                             | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1859/1859.js) |
+| [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)                                                                                              | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/189/189.js)   |
 
 ## License
 

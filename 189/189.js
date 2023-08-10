@@ -2,12 +2,10 @@
 Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
 */
 var rotate = function (nums, k) {
-  let length = nums.length;
-  for (let i = length; i > k; i--) {
-    const item = nums.shift();
-    nums.push(item);
-  }
-  return nums;
+  return nums.unshift(...nums.splice(-k % nums.length));
 };
 
-// ⚠⚠⚠ It's not working on all cases. Should be changed
+// using for loop will result in "Time limit exceeded error"
+// when k is larger than length of nums (k>nums.length), it only moves the modulus ammount of data.
+// when k>length; k % length = modulus (or remainder).
+// when k<length; k % length = k.
