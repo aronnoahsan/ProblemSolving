@@ -40,6 +40,7 @@ const rotationPoint = (nums) => {
 
 nums.unshift(...nums.splice(rotationPoint(nums)));
 const sortedArray = [...nums];
+
 console.log(sortedArray);
 // Binary in sorted array for key
 const binarySearch = (nums, key) => {
