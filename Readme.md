@@ -55,6 +55,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)                                                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/81/81.js)     |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)                   | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/28/28.js)     |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                                           | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/35/35.js)     |
+| [268. Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                                          | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/268/268.js)   |
 
 ## License
 
