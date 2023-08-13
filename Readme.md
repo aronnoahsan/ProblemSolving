@@ -56,6 +56,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)                   | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/28/28.js)     |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                                           | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/35/35.js)     |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                                          | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/268/268.js)   |
+| [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)                                                                    | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/287/287.js)   |
 
 ## License
 
