@@ -53,6 +53,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2810. Faulty Keyboard](https://leetcode.com/problems/maximum-69-number/description/)                                                                                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2810/2810.js) |
 | [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/)                                                                             | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1859/1859.js) |
 | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)                                                     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/81/81.js)     |
+| [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)                   | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/28/28.js)     |
 
 ## License
 
