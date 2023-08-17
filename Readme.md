@@ -62,6 +62,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)     | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2535/2535.js) |
 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/)                                                                                            | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/912/912.js)   |
 | [2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)                                 | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2006/2006.js) |
+| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)                                                            | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/350/350.js)   |
 
 ## License
 
