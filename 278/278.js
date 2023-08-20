@@ -30,4 +30,15 @@ var solution = function (isBadVersion) {
 
     return startNum;
   };
+
+  // Solution 2 with 1 API Call
+  //   while (startNum < endNum) {
+  //     if (isBadVersion(middle)) {
+  //       endNum = middle;
+  //     } else {
+  //       startNum = middle + 1;
+  //     }
+  //     middle = (startNum + endNum) / 2;
+  //   }
+  //   return Math.floor(startNum);
 };
