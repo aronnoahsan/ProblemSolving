@@ -64,6 +64,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)                                 | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2006/2006.js) |
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)                                                            | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/350/350.js)   |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                                                           | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/69/69.js)     |
+| [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)                                                                                    | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/278/278.js)   |
 
 ## License
 
