@@ -32,6 +32,9 @@ var solution = function (isBadVersion) {
   };
 
   // Solution 2 with 1 API Call
+  //   if (n == 1) {
+  //     return n;
+  //   }
   //   while (startNum < endNum) {
   //     if (isBadVersion(middle)) {
   //       endNum = middle;
