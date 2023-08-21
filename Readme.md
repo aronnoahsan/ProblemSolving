@@ -66,6 +66,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)                                                                                                           | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/69/69.js)     |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)                                                                                    | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/278/278.js)   |
 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)                                                              | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/374/374.js)   |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/description/)                                                                                            | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/704/704.js)   |
 
 ## License
 
