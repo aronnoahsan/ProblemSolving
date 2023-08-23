@@ -73,6 +73,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/)                                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2089/2089.js) |
 | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)                                                                      | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/168/168.js)   |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)                                                                    | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/171/171.js)   |
+| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)                                                                  | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/4/4.js)       |
 
 ## License
 
