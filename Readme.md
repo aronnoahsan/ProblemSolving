@@ -71,6 +71,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)                                                                              | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/367/367.js)   |
 | [441. Arranging Coins](https://leetcode.com/problems/valid-perfect-square/description/)                                                                                   | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/441/441.js)   |
 | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/)                                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2089/2089.js) |
+| [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)                                                                      | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/168/168.js)   |
 
 ## License
 
