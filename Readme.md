@@ -76,6 +76,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)                                                                  | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/4/4.js)       |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)                                                                                 | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/58/58.js)     |
 | [66. Plus One](https://leetcode.com/problems/plus-one/description/)                                                                                                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/66/66.js)     |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                                                                                  | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/217/217.js)   |
 
 ## License
 
