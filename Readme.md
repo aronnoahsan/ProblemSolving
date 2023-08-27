@@ -79,6 +79,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                                                                                  | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/217/217.js)   |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)                                                                            | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/219/219.js)   |
 | [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)                                                                          | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/220/220.js)   |
+| [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1790/1790.js) |
 
 ## License
 
