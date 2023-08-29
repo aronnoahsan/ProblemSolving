@@ -82,6 +82,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1790/1790.js) |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                                                                      | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/125/125.js)   |
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)                                                                                              | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/231/231.js)   |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                                    | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/121/121.js)   |
 
 ## License
 
