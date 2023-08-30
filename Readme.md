@@ -84,6 +84,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)                                                                                              | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/231/231.js)   |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                                    | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/121/121.js)   |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                                              | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/122/122.js)   |
+| [55. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                                 | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/55/55.js)     |
 
 ## License
 
