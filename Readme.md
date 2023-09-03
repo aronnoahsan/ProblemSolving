@@ -86,6 +86,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                                              | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/122/122.js)   |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                                 | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/55/55.js)     |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                                              | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/238/238.js)   |
+| [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                                                                                      | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/6/6.js)       |
 
 ## License
 
