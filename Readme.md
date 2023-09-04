@@ -87,6 +87,8 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [55. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                                 | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/55/55.js)     |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                                              | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/238/238.js)   |
 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                                                                                      | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/6/6.js)       |
+| [2666. Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/)                                                                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2666/2666.js) |
+| [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/)                                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2798/2798.js) |
 
 ## License
 
