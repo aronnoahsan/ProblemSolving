@@ -94,6 +94,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)                                                               | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1773/1773.js) |
 | [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)                                                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2053/2053.js) |
 | [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/)                                           | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2520/2520.js) |
+| [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)                                                                            | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/728/728.js)   |
 
 ## License
 
