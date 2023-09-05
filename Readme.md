@@ -92,6 +92,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)                                   | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2824/2824.js) |
 | [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)                                                                 | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1678/1678.js) |
 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)                                                               | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1773/1773.js) |
+| [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)                                                       | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2053/2053.js) |
 
 ## License
 
