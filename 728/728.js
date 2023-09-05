@@ -12,6 +12,9 @@ var selfDividingNumbers = function (left, right) {
 
   for (let i = left; i <= right; i++) {
     const str = i.toString();
+    if (str.includes("0")) {
+      continue;
+    }
     const length = str.length;
     let count = 0;
     for (let j = 0; j < length; j++) {
