@@ -91,6 +91,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/)                                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2798/2798.js) |
 | [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)                                   | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/2824/2824.js) |
 | [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)                                                                 | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1678/1678.js) |
+| [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)                                                               | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1773/1773.js) |
 
 ## License
 
