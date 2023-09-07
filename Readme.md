@@ -99,6 +99,7 @@ I'll try to avoid library functions. Which may cause some performence bottleneck
 | [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)                                                                                          | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/507/507.js)   |
 | [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)                                         | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1389/1389.js) |
 | [1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/description/)                                                 | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1313/1313.js) |
+| [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)                                                                   | [Solution](https://github.com/aronnoahsan/ProblemSolving/blob/main/1791/1791.js) |
 
 ## License
 
